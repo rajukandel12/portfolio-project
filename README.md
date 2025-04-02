@@ -20,7 +20,8 @@ Below is the initial wireframe for the portfolio website:
 
 Here is the logo I designed for my portfolio website:
 
-![LOGO](https://github.com/user-attachments/assets/86a7150f-c4cc-4c91-ac65-3cec5946d951)
+![LOGOOOO](https://github.com/user-attachments/assets/800befd3-b601-4e3f-99d9-ce99b7885bb7)
+
 
 
 ## Technologies Used
