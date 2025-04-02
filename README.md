@@ -20,7 +20,9 @@ Below is the initial wireframe for the portfolio website:
 
 Here is the logo I designed for my portfolio website:
 
-![LOGOOOO](https://github.com/user-attachments/assets/800befd3-b601-4e3f-99d9-ce99b7885bb7)
+![LOGOOOO](https://github.com/user-attachments/assets/800befd3-b601-4e3f-99d9-ce99b7885bb7) 
+
+![RAJU Kandel logoo lgoo](https://github.com/user-attachments/assets/9257795f-e5dc-440a-9b97-df01dd2e365d)
 
 ![logologologo](https://github.com/user-attachments/assets/09cf7b42-6e05-47ad-8157-237273651400) 
 
