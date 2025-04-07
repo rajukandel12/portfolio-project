@@ -42,4 +42,4 @@ Here is the logo I designed for my portfolio website:
 ## How to Run This Project
 
 1. **Clone the repository**:
-   https://github.com/rajukandel12/portfolio-project.git
+file:///C:/Users/rajuk/Downloads/portofolio.html
