@@ -1,0 +1,87 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #fff;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 15px;
+}
+
+.navbar {
+  background-color: #374151;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.navbar a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.section {
+  padding: 40px 20px;
+  background-color: #fff;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+h2 {
+  color: #1f2937;
+}
+
+.skills li {
+  margin: 8px 0;
+  list-style: none;
+  position: relative;
+  padding-left: 20px;
+}
+
+.skills li::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #10b981;
+}
+
+blockquote {
+  border-left: 5px solid #10b981;
+  margin: 20px 0;
+  padding-left: 15px;
+  font-style: italic;
+  color: #555;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
